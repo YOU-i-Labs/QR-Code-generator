@@ -21,6 +21,8 @@
  *   Software.
  */
 
+#pragma GCC diagnostic ignored "-Wmissing-field-initializers"
+
 #include <algorithm>
 #include <climits>
 #include <cstddef>
